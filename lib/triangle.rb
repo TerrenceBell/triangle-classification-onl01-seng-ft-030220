@@ -22,5 +22,5 @@ class Triangle
   end
 
 end
-lass TriangleError < StandardError
+class TriangleError < StandardError
 end
